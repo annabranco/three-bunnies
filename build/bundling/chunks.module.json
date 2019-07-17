@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.35.3",
-  "hash": "119d5298be2e35467b69",
+  "hash": "bbd170074a6f43d6c9a1",
   "publicPath": "/static/",
   "outputPath": "/Users/a.branco/Desktop/3BUNNIES/webapp/build/static",
   "assetsByChunkName": {
@@ -19,7 +19,7 @@
       "chunkNames": [
         "Three Bunnies Football Club"
       ],
-      "emitted": true
+      "emitted": false
     },
     {
       "name": "images/3bunnies-logo.gif",
