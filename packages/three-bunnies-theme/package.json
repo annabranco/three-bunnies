@@ -1,20 +1,19 @@
 {
-  "name": "@frontity/mars-theme",
-  "version": "1.1.7",
-  "description": "A starter theme for Frontity",
+  "name": "three-bunnies-theme",
+  "version": "1.0.0",
+  "description": "A Frontity theme made for the Three Bunnies FC Team.",
+  "author": "Anna Branco",
   "keywords": [
     "frontity",
-    "frontity-theme",
-    "frontity-amp"
+    "frontity-theme"
   ],
-  "homepage": "https://frontity.org",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontity/frontity.git"
+    "url": "https://github.com/annabranco/three-bunnies.git"
   },
   "bugs": {
-    "url": "https://community.frontity.org"
+    "url": "https://github.com/annabranco/three-bunnies"
   },
   "publishConfig": {
     "access": "public"
