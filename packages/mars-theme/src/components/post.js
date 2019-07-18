@@ -19,7 +19,7 @@ const Post = ({ state, actions, libraries }) => {
     actions.source.fetch("/");
     List.preload();
   }, []);
-  console.log("data.isPlayer", data.isPlayer);
+
   return data.isReady ? (
     <Container>
       <div>

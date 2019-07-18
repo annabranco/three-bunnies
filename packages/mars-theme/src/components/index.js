@@ -25,7 +25,6 @@ const globalStyles = css`
 
 const Theme = ({ state }) => {
   const data = state.source.get(state.router.link);
-  console.log(state.router.link);
 
   return (
     <>

@@ -13,7 +13,6 @@ const PlayerDetails = ({ state }) => {
   const countryFlag = countryCode
     ? `https://www.countryflags.io/${countryCode}/shiny/32.png`
     : RainbowFlag;
-  console.log(player.position);
   const playerImgPosition = {};
 
   switch (player.position) {
