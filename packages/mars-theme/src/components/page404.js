@@ -1,6 +1,6 @@
 import React from "react";
 import { styled } from "frontity";
-import photo404 from "../../../../assets/images/photo404.png";
+import photo404 from "../../assets/images/photo404.png";
 
 const Page404 = () => (
   <Container>

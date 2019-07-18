@@ -2,8 +2,8 @@ import React from "react";
 import { connect, styled } from "frontity";
 import Link from "../link";
 import { playerData } from "./utils";
-import ShirtImage from "../../../../../assets/images/shirt.png";
-import ShirtGKImage from "../../../../../assets/images/shirt-gk.png";
+import ShirtImage from "../../../assets/images/shirt.png";
+import ShirtGKImage from "../../../assets/images/shirt-gk.png";
 
 const PlayersList = ({ state }) => {
   const data = state.source.get("/players/");

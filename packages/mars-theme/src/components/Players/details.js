@@ -3,8 +3,8 @@ import { connect, styled } from "frontity";
 import { playerData } from "./utils";
 import { COUNTRIES } from "../../utils/countries";
 import { POSITIONS } from "../../utils/positions";
-import FootballFieldImg from "../../../../../assets/images/footballField.jpg";
-import RainbowFlag from "../../../../../assets/images/rainbow-flag.png";
+import FootballFieldImg from "../../../assets/images/footballField.jpg";
+import RainbowFlag from "../../../assets/images/rainbow-flag.png";
 
 const PlayerDetails = ({ state }) => {
   const data = state.source.get(state.router.link);

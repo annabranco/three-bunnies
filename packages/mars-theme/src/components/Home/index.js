@@ -1,6 +1,6 @@
 import React from "react";
 import { styled } from "frontity";
-import Logo from "../../../../../assets/images/3bunnies-logo.gif";
+import Logo from "../../../assets/images/3bunnies-logo.gif";
 import Nav from "../nav.js";
 import Link from "../link";
 
