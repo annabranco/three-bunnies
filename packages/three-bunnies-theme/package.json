@@ -1,0 +1,28 @@
+{
+  "name": "three-bunnies-theme",
+  "version": "1.0.0",
+  "description": "A Frontity theme made for the Three Bunnies FC Team.",
+  "author": "Anna Branco",
+  "keywords": [
+    "frontity",
+    "frontity-theme"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annabranco/three-bunnies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/annabranco/three-bunnies"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@frontity/components": "^1.1.7",
+    "@frontity/html2react": "^1.1.7",
+    "frontity": "^1.2.1",
+    "react-spinners": "^0.5.4"
+  },
+  "gitHead": "8ff8b1b0991a38318046704fd5e54fa324f25564"
+}
