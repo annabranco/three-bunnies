@@ -15,7 +15,7 @@
   "dependencies": {
     "@frontity/core": "^1.1.2",
     "@frontity/html2react": "^1.1.7",
-    "@frontity/mars-theme": "./packages/mars-theme",
+    "@frontity/three-bunnies-theme": "./packages/three-bunnies-theme",
     "@frontity/tiny-router": "^1.0.11",
     "@frontity/wp-source": "^1.1.7",
     "frontity": "^1.2.1"
