@@ -19,10 +19,10 @@
     "access": "public"
   },
   "dependencies": {
-    "@frontity/components": "^1.1.7",
-    "@frontity/html2react": "^1.1.7",
-    "frontity": "^1.2.1",
-    "react-spinners": "^0.5.4"
+    "@frontity/components": "^1.1.13",
+    "@frontity/html2react": "^1.1.13",
+    "frontity": "^1.4.1",
+    "react-spinners": "^0.6.1"
   },
   "gitHead": "8ff8b1b0991a38318046704fd5e54fa324f25564"
 }

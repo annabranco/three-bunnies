@@ -10,7 +10,7 @@ const settings = {
   },
   packages: [
     {
-      name: "@frontity/three-bunnies-theme",
+      name: "three-bunnies-theme",
       state: {
         theme: {
           menu: [
