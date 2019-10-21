@@ -1,20 +1,24 @@
 # Three Bunnies Football Club
+v0.1
 
-<img src="https://raw.githubusercontent.com/annabranco/three-bunnies/master/assets/images/logo.png" alt="Three Bunnies FC Theme Logo" width="30%">
+<img src="https://raw.githubusercontent.com/annabranco/three-bunnies/master/packages/three-bunnies-theme/assets/images/logo.png" alt="Three Bunnies FC Theme Logo" width="30%">
 
-This is just a remake theme by [Anna Branco](https://github.com/annabranco) build upon _mars-theme_ for **Frontity**.
+This is custom theme for **Frontity** by [Anna Branco](https://github.com/annabranco).
 
-Frontity is an Open Source framework for React, working with Wordpress database.
+Frontity is an amazing Open Source framework for React, running Wordpress database.
 
 Know Frontity: https://frontity.org/
 
-## Using it
+## - Demo
+https://three-bunnies.annabranco.now.sh
+
+## - Using it
 
 Clone it,
 install dependencies `$ npm i`
 and run development mode `$ npx frontity dev`.
 
-## More Information
+## - More Information
 
 Checkout the Frontity documentation.
 
